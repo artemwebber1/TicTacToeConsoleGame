@@ -1,0 +1,14 @@
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\bin\Debug\net8.0\TicTacToeConsoleGame.exe
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\bin\Debug\net8.0\TicTacToeConsoleGame.deps.json
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\bin\Debug\net8.0\TicTacToeConsoleGame.runtimeconfig.json
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\bin\Debug\net8.0\TicTacToeConsoleGame.dll
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\bin\Debug\net8.0\TicTacToeConsoleGame.pdb
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.AssemblyInfoInputs.cache
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.AssemblyInfo.cs
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.csproj.CoreCompileInputs.cache
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.dll
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\refint\TicTacToeConsoleGame.dll
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.pdb
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\TicTacToeConsoleGame.genruntimeconfig.cache
+D:\projects\CSharp\ConsoleApps\TicTacToeConsoleGame\TicTacToeConsoleGame\obj\Debug\net8.0\ref\TicTacToeConsoleGame.dll
